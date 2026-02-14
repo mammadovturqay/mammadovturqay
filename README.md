@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://mammadovturqay.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-KLİKLƏ_BAX-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salam, mən Turqay Məmmədov!
 
 ### 🚀 Software Developer & Fintech Specialist
